@@ -12,4 +12,4 @@ ENV CART_HOST="cart" \
     AMQP_HOST="rabbitmq" \
     AMQP_USER="Roboshop" \
     AMQP_PASS="roboshop123" \
- CMD ["uwsgi","payment.ini"] 
+CMD ["uwsgi","payment.ini"]
