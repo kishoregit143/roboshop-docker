@@ -69,14 +69,14 @@ networks:
       name: roboshop
       external: false  #true if we created the network manually usinf docker network command.
 volumes:
-  mongodb:
-  redis:
-  mysql:
-  rabbitmq:
-  user:
-  catalogue:
-  cart:
-  shipping:
-  payment:
-  frontend:     
+  # mongodb:
+  # redis:
+  # mysql:
+  # rabbitmq:
+  # user:
+  # catalogue:
+  # cart:
+  # shipping:
+  # payment:
+  # frontend:     
       
